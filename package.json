@@ -1,0 +1,21 @@
+{
+  "name": "sentencje",
+  "version": "1.0.0",
+  "description": "Serwer sentencji – laboratoria Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dariusz-git/node-sentencje.git"
+  },
+  "keywords": [],
+  "author": "Dariusz Gorczyca",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dariusz-git/node-sentencje/issues"
+  },
+  "homepage": "https://github.com/Dariusz-git/node-sentencje#readme"
+}

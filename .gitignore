@@ -147,3 +147,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+# te wyrzej to automatycznie github dodał
+
+node_modules/
+.env
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Dariusz-git/node-sentencje/issues"
   },
-  "homepage": "https://github.com/Dariusz-git/node-sentencje#readme"
+  "homepage": "https://github.com/Dariusz-git/node-sentencje#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
